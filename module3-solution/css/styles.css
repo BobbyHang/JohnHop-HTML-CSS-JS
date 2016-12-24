@@ -1,0 +1,16 @@
+.navbar {
+  background-color: lightgray;
+  text-align: left;
+}
+
+#nav-list a {
+  text-align: center;
+}
+
+#chicken {
+    background-color: dodgerblue;
+}
+
+#chickenTitle {
+    font-weight: bold;
+}
